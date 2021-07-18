@@ -1,0 +1,1 @@
+pyinstaller -F -i sgdlr.ico download.py
