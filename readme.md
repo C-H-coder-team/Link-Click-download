@@ -1,0 +1,4 @@
+- 本软件需要安装python3.x，且启用了add to system path
+- 并打开pip命令
+- 运行在Windows7+的环境下
+- 可以正确运行cmd/封装好的exe
